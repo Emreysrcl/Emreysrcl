@@ -1,5 +1,5 @@
 # Hi there, I'm Emre Yaşar Çal  👋
-## I'm a passionate and eager to learn software developer in the field.!! 
+## I'm a passionate and eager to learn software developer in the field!! 
 
 
 - 🌱 I’m currently learning **Full-Stack Web Develope with The Complete 2023 Web Development Bootcamp**
