@@ -1,5 +1,5 @@
 # Hi there, I'm Emre Yaşar Çal  👋
-## I'm passionate and hardworker software developer from Turkey
+## I'm a passionate and hardworker software developer from Turkey
 
 
 - 🌱 I’m currently learning **Full-Stack Web Develope with The Complete 2023 Web Development Bootcamp**
